@@ -16,4 +16,5 @@ Based in Stuttgart, Germany.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-id1&layout=compact&hide=shaderlab)
+![Unity](https://img.shields.io/badge/Unity-C%23-black?logo=unity)
+![Platform](https://img.shields.io/badge/platform-Mobile%20%7C%20VR%20%7C%20WebGL-blue)
