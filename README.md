@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**Alex-id1/Alex-id1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity3D Developer with 12 years of experience — games, VR/AR/XR, mobile, enterprise apps.  
+Based in Stuttgart, Germany.
 
-Here are some ideas to get you started:
+**Stack:** Unity · C# · UniRx · Photon · ARKit/ARCore · OpenCV · YOLO · DoTween
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+| | |
+|---|---|
+| [unity-timer-benchmark-tool](https://github.com/Alex-id1/unity-timer-benchmark-tool) | Benchmarking tool for Unity timer implementations (IL2CPP, GC, FPS, CPU) |
+| [unity-timer-benchmark](https://github.com/Alex-id1/unity-timer-benchmark) | Benchmark results and analysis across 5 sessions |
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-id1&layout=compact&hide=shaderlab)
