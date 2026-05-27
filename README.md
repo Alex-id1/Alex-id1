@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-Unity3D Developer with 12 years of experience — games, VR/AR/XR, mobile, enterprise apps.  
+Unity3D Developer with 12 years of experience - games, VR/AR/XR, mobile, enterprise apps.  
 Based in Stuttgart, Germany.
 
 **Stack:** Unity · C# · UniRx · Photon · ARKit/ARCore · OpenCV · YOLO · DoTween
