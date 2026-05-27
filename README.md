@@ -11,6 +11,7 @@ Based in Stuttgart, Germany.
 
 | | |
 |---|---|
+| [YouTubeVoiceController](https://github.com/Alex-id1/YouTubeVoiceController) | Windows app to control YouTube with voice commands - speech recognition + custom YOLO model + YouTube API |
 | [unity-timer-benchmark-tool](https://github.com/Alex-id1/unity-timer-benchmark-tool) | Benchmarking tool for Unity timer implementations (IL2CPP, GC, FPS, CPU) |
 | [unity-timer-benchmark](https://github.com/Alex-id1/unity-timer-benchmark) | Benchmark results and analysis across 5 sessions |
 
